@@ -177,8 +177,8 @@ li {
   left: 0;
   background-color: var(--main-color) !important;
   padding: 20px;
-  text-align: center;
-  color: #fff !;
+  color: #fff !important;
+  z-index: 100;
 }
 
 /* End header */
